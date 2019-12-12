@@ -1,8 +1,9 @@
 # Planning
 text goes here
+
 (number of balloons) = 81.7 * (mass in kilograms)
+
 (ft^3 of helium) = 33 * (mass in kilograms)
-{$$}8/2{$$}
 ## The Build
 text goes here
 ## The Stuff Inside
