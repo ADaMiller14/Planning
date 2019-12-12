@@ -1,5 +1,5 @@
 # Planning
-Pi in the Sky! We're there! We are going to try to re-create the _[house fron __Up](https://i.ytimg.com/vi/39UQE3j4S8A/maxresdefault.jpg)_ (you know the one).
+Pi in the Sky! We're there! We are going to try to re-create the [house from _Up_](https://i.ytimg.com/vi/39UQE3j4S8A/maxresdefault.jpg) (you know the one).
 
 (number of balloons) = 81.7 * (mass in kilograms)
 
