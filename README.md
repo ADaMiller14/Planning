@@ -5,8 +5,18 @@ Pi in the Sky! We're there! We are going to try to re-create the [house from _Up
 
 (ft<sup>3</sup> of helium) = 33 * (mass in kilograms)
 ## The Build
-text goes here
+The house will look, ideally, similar to the "_Up_ house", with some minor changes, like access inside to retrieve the data and some way for the camera to look around. The defining characteristics are going to be the house/balloons concept and the additional ideal that the chimney (where the balloons will issue from) will be off-center.
 ## The Stuff Inside
-text goes here
+We'll need a Pi, an accelerometer, a camera, and some method of retreiving the data. Currently, we're thinking of ideas like having a way to simply pull out the SD card from the Pi, though based on the needs of securing the balloons, we might make the roof removable or something. The weight will be concentrated in such a way that the CM is directly below the chimney. We'll also need some way of releasing some balloons, which will probably include an altimeter and a servo.
 ## The Tentative Schedule
-text goes here
+We will begin the project at the beginning of the second semester, January 20<sup>th</sup>.
+
+For the first 3 weeks, we will work on the code.
+
+For the next 2 weeks, we will create the housing for the components.
+
+For the 2 weeks after that, we will create the house exterior.
+
+For the next week, we will construct the project and bug-fix.
+
+For the last week, we will finish fixing the bugs and send the project up.
