@@ -20,3 +20,5 @@ For the 2 weeks after that, we will create the house exterior.
 For the next week, we will construct the project and bug-fix.
 
 For the last week, we will finish fixing the bugs and send the project up.
+
+We'll theoretically finish on March 20<sup>th</sup>.
