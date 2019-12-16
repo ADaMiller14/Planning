@@ -17,11 +17,16 @@ For the first 3 weeks, we will work on the code.
 * The third week will add the camera (maybe) and fix all the bugs.
 
 For the next 2 weeks, we will create the housing for the components.
+* One week will be spent working on the area surrounding the chimney and components like the servo
+* The next week will be spent adding the other components and adjusting the CM
 
 For the 2 weeks after that, we will create the house exterior.
+* These weeks will both be spent in pursuit of this goal
 
 For the next week, we will construct the project and bug-fix.
+* This includes re-making and re-assembling any broken/badly designed parts
 
 For the last week, we will finish fixing the bugs and send the project up.
+* This includes the final CM evaluations
 
 We'll theoretically finish on March 20<sup>th</sup>.
