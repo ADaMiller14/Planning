@@ -14,7 +14,7 @@ We will begin the project the week before the beginning of the second semester, 
 For the first 3 weeks, we will work on the code.
 * We'll spend the first week working on the accelerometer and servo
 * The second week will be the altimeter
-* The third week will add the camera (maybe) and fix all the bugs.
+* The third week will add the camera (maybe) and fix all the bugs
 
 For the next 2 weeks, we will create the housing for the components.
 * One week will be spent working on the area surrounding the chimney and components like the servo
